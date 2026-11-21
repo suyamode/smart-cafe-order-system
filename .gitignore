@@ -1,5 +1,6 @@
-build/
-*.o
-*.exe
+target/
+.idea/
 .vscode/
+*.class
 .DS_Store
+data/orders.csv
